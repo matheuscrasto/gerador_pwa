@@ -1,0 +1,52 @@
+{
+    "name": "PWA Gerador",
+    "short_name": "PWA Gerador",
+    "icons": [
+      {
+        "src": "assets/img/icon_120.png",
+        "sizes": "120x120",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/img/icon_144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/img/icon_152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/img/icon_167.png",
+        "sizes": "167x167",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/img/icon_180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/img/icon_196.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any maskable"
+
+      },
+      {
+        "src": "assets/img/icon_216.png",
+        "sizes": "216x216",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/img/icon_1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#31506F",
+    "theme_color": "#4D5360"
+  }
